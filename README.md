@@ -1,14 +1,5 @@
-# test
-<<<<<<< HEAD
-ghguuuiyg
-=======
+jgiiuh
+iojoinoi
+ihoihih
+pugiouhi
 
-kyguyguyg
-huuiuiuhi
-jhghih
->>>>>>> yellow
-kugiuiu
-uguyguy
-uuguiuiu
-ou8uhuh
-green
